@@ -47,6 +47,27 @@
 * `vi` (你们)
 * `si` (他们/她们)
 
+## 派生系统 (Derivation System)
+Astrix 使用高度符合逻辑的派生系统，通过少量词根创造出大量新词。
+
+### 元音转换 (Vowel Transmutation)
+任何词根只需改变最后一个元音，即可改变其词性：
+* `rapid-` (速度的词根)
+* `rapidi` (快的 - 形容词)
+* `rapidu` (快速地 - 副词)
+* `rapida` (加速 - 动词)
+* `rapido` (速度 - 名词)
+
+### 前缀 (状态修饰符)
+* `no-` (逻辑反义): `boni` (好) → `noboni` (坏)
+* `max-` (增强/放大): `grandi` (大) → `maxgrandi` (巨大)
+* `min-` (减弱/缩小): `grandi` (大) → `mingrandi` (小)
+
+### 后缀 (名词生成器)
+* `-ist-` (执行者/职业): `skopa` (探索) → `skopisto` (探索者)
+* `-il-` (工具/机器): `parla` (说话) → `parlilo` (通讯器/无线电)
+* `-ik-` (科学/学科): `stello` (星星) → `stelliko` (天文学)
+
 ## 句子示例
 
 * **Mi fu parla Astrix kun ti.** → 我将和你一起说 Astrix 语。

@@ -47,6 +47,27 @@ The final vowel of a word unequivocally defines its grammatical class:
 * `vi` (you all)
 * `si` (they)
 
+## Derivation System
+Astrix uses a highly logical derivation system to create new words from a small set of roots.
+
+### Vowel Transmutation
+Any root can change its grammatical class simply by changing the final vowel:
+* `rapid-` (root for speed)
+* `rapidi` (fast - adjective)
+* `rapidu` (quickly - adverb)
+* `rapida` (to accelerate - verb)
+* `rapido` (speed/velocity - noun)
+
+### Prefixes (State Modifiers)
+* `no-` (logical opposition): `boni` (good) → `noboni` (bad)
+* `max-` (augmentative): `grandi` (big) → `maxgrandi` (huge)
+* `min-` (diminutive): `grandi` (big) → `mingrandi` (small)
+
+### Suffixes (Noun Generators)
+* `-ist-` (agent/profession): `skopa` (to explore) → `skopisto` (explorer)
+* `-il-` (tool/machine): `parla` (to speak) → `parlilo` (communicator/radio)
+* `-ik-` (science/discipline): `stello` (star) → `stelliko` (astronomy)
+
 ## Example Sentences
 
 * **Mi fu parla Astrix kun ti.** → I will speak Astrix with you.

@@ -47,6 +47,27 @@ A vogal final de uma palavra define inequivocamente a sua classe gramatical:
 * `vi` (vocês)
 * `si` (eles/as)
 
+## Sistema de Derivação
+A Astrix usa um sistema de derivação altamente lógico para criar novas palavras a partir de um pequeno conjunto de raízes.
+
+### Transmutação de Vogal
+Qualquer raiz pode mudar sua classe gramatical simplesmente alterando a vogal final:
+* `rapid-` (raiz para velocidade)
+* `rapidi` (rápido - adjetivo)
+* `rapidu` (rapidamente - advérbio)
+* `rapida` (acelerar - verbo)
+* `rapido` (velocidade - substantivo)
+
+### Prefixos (Modificadores de Estado)
+* `no-` (oposição lógica): `boni` (bom) → `noboni` (ruim)
+* `max-` (aumentativo): `grandi` (grande) → `maxgrandi` (gigante)
+* `min-` (diminutivo): `grandi` (grande) → `mingrandi` (pequeno)
+
+### Sufixos (Geradores de Substantivos)
+* `-ist-` (agente/profissão): `skopa` (explorar) → `skopisto` (explorador)
+* `-il-` (ferramenta/máquina): `parla` (falar) → `parlilo` (comunicador/rádio)
+* `-ik-` (ciência/disciplina): `stello` (estrela) → `stelliko` (astronomia)
+
 ## Exemplos de Frases
 
 * **Mi fu parla Astrix kun ti.** → Eu vou falar Astrix com você.

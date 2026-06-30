@@ -1,0 +1,54 @@
+prefixes:
+  no-:
+    translations:
+      pt: prefixo de oposição lógica / antônimo
+      en: logical opposition / antonym prefix
+    examples:
+      - text: "noboni"
+        translation_pt: "ruim / mau"
+        translation_en: "bad"
+      - text: "norapidi"
+        translation_pt: "lento"
+        translation_en: "slow"
+  max-:
+    translations:
+      pt: aumentativo / intensificador
+      en: augmentative / intensifier
+    examples:
+      - text: "maxgrandi"
+        translation_pt: "gigante / massivo"
+        translation_en: "huge / massive"
+  min-:
+    translations:
+      pt: diminutivo / redutor
+      en: diminutive / reducer
+    examples:
+      - text: "mingrandi"
+        translation_pt: "pequeno"
+        translation_en: "small"
+
+suffixes:
+  -ist-:
+    translations:
+      pt: o agente / profissão / quem faz
+      en: agent / profession / doer
+    examples:
+      - text: "skopisto"
+        translation_pt: "explorador"
+        translation_en: "explorer"
+  -il-:
+    translations:
+      pt: instrumento / ferramenta / máquina
+      en: instrument / tool / machine
+    examples:
+      - text: "parlilo"
+        translation_pt: "comunicador / rádio"
+        translation_en: "communicator / radio"
+  -ik-:
+    translations:
+      pt: ciência / disciplina / estudo
+      en: science / discipline / field of study
+    examples:
+      - text: "stelliko"
+        translation_pt: "astronomia"
+        translation_en: "astronomy"
