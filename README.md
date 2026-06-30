@@ -1,64 +1,66 @@
+[English](README.md) | [Português](README.pt.md) | [Español](README.es.md) | [中文](README.zh.md) | [Русский](README.ru.md)
+
 # Astrix (v0.3)
 
-**Astrix** (de Astra + Matrix) é uma língua construída otimizada para a era interestelar da humanidade.
+**Astrix** (from Astra + Matrix) is a constructed language optimized for humanity's interstellar era.
 
-## Propósito
-Língua oficial auxiliar da humanidade para exploração espacial, precisão científica, clareza em comandos e integração com IAs.
+## Purpose
+An official auxiliary language for humanity designed for space exploration, scientific precision, clarity in commands, and seamless integration with AIs.
 
-## Princípios
-* Fonética pura
-* Gramática regular (sem exceções e sem ambiguidades)
-* Lógica
-* Fácil de aprender
-* Expansível e otimizada para humanos e IAs
+## Principles
+* Pure phonetics
+* Regular grammar (no exceptions and no ambiguities)
+* Highly logical
+* Easy to learn
+* Expandable and optimized for both humans and AIs
 
-## Regras Básicas
+## Basic Rules
 
-### Fonologia e Ortografia
-* **Alfabeto Restrito**: Utiliza apenas letras com um único som invariável: `p, t, k, b, d, g, m, n, f, v, s, z, l, r, j, y, a, e, i, o, u`. Letras ambíguas como 'c', 'q' e 'x' não são utilizadas.
-* **Vogais**: a, e, i, o, u (sempre pronunciadas da mesma forma).
-* Sílabas simples (CV/CVC).
-* **Ortografia**: Totalmente fonética.
-* **Acentuação**: A tônica cai **sempre** na penúltima sílaba (paroxítona).
+### Phonology and Orthography
+* **Restricted Alphabet**: Uses only letters with a single, invariable sound: `p, t, k, b, d, g, m, n, f, v, s, z, l, r, j, y, a, e, i, o, u`. Ambiguous letters like 'c', 'q', and 'x' are not used.
+* **Vowels**: a, e, i, o, u (always pronounced the same way).
+* Simple syllables (CV/CVC).
+* **Orthography**: Completely phonetic.
+* **Stress**: The stress **always** falls on the penultimate (second-to-last) syllable.
 
-### Morfologia (Terminações de Palavras)
-A vogal final de uma palavra define inequivocamente a sua classe gramatical:
-* **Verbos**: terminam em `-a` (ex: *parla*, *krea*, *protekta*).
-* **Substantivos**: terminam em `-o` (ex: *stello*, *plano*, *vako*). Não há gênero gramatical.
-* **Adjetivos**: terminam em `-i` (colocados antes do substantivo, ex: *grandi*, *boni*).
-* **Advérbios e Interjeições**: terminam em `-u` (ex: *salu*, *vayu*).
-* **Pronomes**: vogal base `i` (ex: *mi*, *ti*).
+### Morphology (Word Endings)
+The final vowel of a word unequivocally defines its grammatical class:
+* **Verbs**: end in `-a` (e.g., *parla*, *krea*, *protekta*).
+* **Nouns**: end in `-o` (e.g., *stello*, *plano*, *vako*). There is no grammatical gender.
+* **Adjectives**: end in `-i` (placed before the noun, e.g., *grandi*, *boni*).
+* **Adverbs and Interjections**: end in `-u` (e.g., *salu*, *vayu*).
+* **Pronouns**: base vowel `i` (e.g., *mi*, *ti*).
 
-### Gramática
-* **Ordem**: Sujeito-Verbo-Objeto (SVO).
-* **Tempos Verbais** (partículas isoladas antes do verbo):
-  * `nu` (presente)
-  * `pa` (passado)
-  * `fu` (futuro)
-* **Plural**: adiciona-se `-s` ao final do substantivo (ex: *stellos*).
+### Grammar
+* **Word Order**: Subject-Verb-Object (SVO).
+* **Verb Tenses** (isolated particles placed before the verb):
+  * `nu` (present)
+  * `pa` (past)
+  * `fu` (future)
+* **Plural**: add `-s` to the end of the noun (e.g., *stellos*).
 
-### Pronomes Pessoais
-* `mi` (eu)
-* `ti` (você)
-* `li` (ele/a - neutro)
-* `ni` (nós)
-* `vi` (vocês)
-* `si` (eles/as)
+### Personal Pronouns
+* `mi` (I)
+* `ti` (you)
+* `li` (he/she/it - neutral)
+* `ni` (we)
+* `vi` (you all)
+* `si` (they)
 
-## Exemplos de Frases
+## Example Sentences
 
-* **Mi fu parla Astrix kun ti.** → Eu vou falar Astrix com você.
-* **Ni fu skopa stellos kun ti.** → Nós vamos explorar as estrelas juntos.
-* **Mi nu protekta ti, partnoro.** → Eu te protejo, parceiro.
-* **No tima vako.** → Não tema o espaço.
+* **Mi fu parla Astrix kun ti.** → I will speak Astrix with you.
+* **Ni fu skopa stellos kun ti.** → We will explore the stars together.
+* **Mi nu protekta ti, partnoro.** → I protect you, partner.
+* **No tima vako.** → Do not fear space.
 
-## Estratégia de Divulgação
-
-* Criar hub central (site/GitHub)
-* Conteúdo curto em redes (TikTok, YouTube Shorts)
-* Gamificação (Duolingo-like, Anki)
-* Foco em comunidades sci-fi, space e conlangs
-* Integração com IAs
+## Outreach Strategy
+* Create a central hub (Website/GitHub)
+* Short-form content on social media (TikTok, YouTube Shorts)
+* Gamification (Duolingo-like, Anki)
+* Focus on sci-fi, space, and conlang communities
+* AI Integration
 
 ---
-*Estado atual: Versão estrutural (0.3). Pronta para expansão de vocabulário e criação de aplicativos.*
+*Current state: Structural version (0.3). Ready for vocabulary expansion and application creation.*
+*Note: The Astrix language vocabulary and grammar are licensed under CC0 (Public Domain).*
