@@ -1,0 +1,20 @@
+nu:
+  translations:
+    pt: indicador de presente
+    en: present tense marker
+  examples:
+    - text: "Mi nu protekta ti."
+      translation_pt: "Eu te protejo."
+      translation_en: "I protect you."
+pa:
+  translations:
+    pt: indicador de passado
+    en: past tense marker
+fu:
+  translations:
+    pt: indicador de futuro
+    en: future tense marker
+  examples:
+    - text: "Ni fu krea futuro."
+      translation_pt: "Nós vamos criar o futuro."
+      translation_en: "We will create the future."

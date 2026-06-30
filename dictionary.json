@@ -1,0 +1,264 @@
+{
+  "language": "Astrix",
+  "version": "0.3",
+  "description": "Língua construída otimizada para a era interestelar",
+  "categories": {
+    "adjectives": {
+      "grandi": {
+        "translations": {
+          "pt": "grande",
+          "en": "big / large"
+        }
+      },
+      "rapidi": {
+        "translations": {
+          "pt": "rápido",
+          "en": "fast / quick"
+        }
+      },
+      "forti": {
+        "translations": {
+          "pt": "forte",
+          "en": "strong"
+        }
+      },
+      "kuriosi": {
+        "translations": {
+          "pt": "curioso",
+          "en": "curious"
+        }
+      },
+      "boni": {
+        "translations": {
+          "pt": "bom",
+          "en": "good"
+        }
+      }
+    },
+    "adverbs_interjections": {
+      "salu": {
+        "translations": {
+          "pt": "olá / saudações",
+          "en": "hello / greetings"
+        },
+        "examples": [
+          {
+            "text": "Salu, partnoro!",
+            "translation_pt": "Olá, parceiro!",
+            "translation_en": "Hello, partner!"
+          }
+        ]
+      },
+      "vayu": {
+        "translations": {
+          "pt": "adeus",
+          "en": "goodbye"
+        }
+      },
+      "gratu": {
+        "translations": {
+          "pt": "obrigado",
+          "en": "thank you"
+        }
+      }
+    },
+    "nouns": {
+      "stello": {
+        "translations": {
+          "pt": "estrela",
+          "en": "star"
+        }
+      },
+      "plano": {
+        "translations": {
+          "pt": "planeta",
+          "en": "planet"
+        }
+      },
+      "vako": {
+        "translations": {
+          "pt": "espaço (sideral)",
+          "en": "space (outer space)"
+        }
+      },
+      "navo": {
+        "translations": {
+          "pt": "nave",
+          "en": "ship / spacecraft"
+        }
+      },
+      "kosmo": {
+        "translations": {
+          "pt": "universo",
+          "en": "universe"
+        }
+      },
+      "mento": {
+        "translations": {
+          "pt": "mente / inteligência artificial",
+          "en": "mind / AI"
+        }
+      },
+      "homo": {
+        "translations": {
+          "pt": "humano",
+          "en": "human"
+        }
+      },
+      "homoko": {
+        "translations": {
+          "pt": "humanidade",
+          "en": "humanity"
+        },
+        "notes": "Derivado de homo"
+      },
+      "partnoro": {
+        "translations": {
+          "pt": "parceiro",
+          "en": "partner"
+        }
+      },
+      "futuro": {
+        "translations": {
+          "pt": "futuro",
+          "en": "future"
+        }
+      }
+    },
+    "particles": {
+      "nu": {
+        "translations": {
+          "pt": "indicador de presente",
+          "en": "present tense marker"
+        },
+        "examples": [
+          {
+            "text": "Mi nu protekta ti.",
+            "translation_pt": "Eu te protejo.",
+            "translation_en": "I protect you."
+          }
+        ]
+      },
+      "pa": {
+        "translations": {
+          "pt": "indicador de passado",
+          "en": "past tense marker"
+        }
+      },
+      "fu": {
+        "translations": {
+          "pt": "indicador de futuro",
+          "en": "future tense marker"
+        },
+        "examples": [
+          {
+            "text": "Ni fu krea futuro.",
+            "translation_pt": "Nós vamos criar o futuro.",
+            "translation_en": "We will create the future."
+          }
+        ]
+      }
+    },
+    "pronouns": {
+      "mi": {
+        "translations": {
+          "pt": "eu",
+          "en": "I"
+        },
+        "notes": "Pronome de primeira pessoa do singular"
+      },
+      "ti": {
+        "translations": {
+          "pt": "você / tu",
+          "en": "you (singular)"
+        }
+      },
+      "li": {
+        "translations": {
+          "pt": "ele / ela (neutro)",
+          "en": "he / she / it (neutral)"
+        }
+      },
+      "ni": {
+        "translations": {
+          "pt": "nós",
+          "en": "we"
+        }
+      },
+      "vi": {
+        "translations": {
+          "pt": "vocês / vós",
+          "en": "you (plural)"
+        }
+      },
+      "si": {
+        "translations": {
+          "pt": "eles / elas",
+          "en": "they"
+        }
+      }
+    },
+    "verbs": {
+      "vida": {
+        "translations": {
+          "pt": "viver",
+          "en": "to live"
+        }
+      },
+      "pensa": {
+        "translations": {
+          "pt": "pensar",
+          "en": "to think"
+        }
+      },
+      "parla": {
+        "translations": {
+          "pt": "falar",
+          "en": "to speak"
+        }
+      },
+      "krea": {
+        "translations": {
+          "pt": "criar",
+          "en": "to create"
+        }
+      },
+      "protekta": {
+        "translations": {
+          "pt": "proteger",
+          "en": "to protect"
+        }
+      },
+      "skopa": {
+        "translations": {
+          "pt": "explorar",
+          "en": "to explore"
+        }
+      },
+      "voya": {
+        "translations": {
+          "pt": "viajar",
+          "en": "to travel"
+        }
+      },
+      "lerna": {
+        "translations": {
+          "pt": "aprender",
+          "en": "to learn"
+        }
+      },
+      "tima": {
+        "translations": {
+          "pt": "temer",
+          "en": "to fear"
+        }
+      },
+      "loya": {
+        "translations": {
+          "pt": "amar",
+          "en": "to love"
+        }
+      }
+    }
+  }
+}

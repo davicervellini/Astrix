@@ -1,0 +1,25 @@
+mi:
+  translations:
+    pt: eu
+    en: I
+  notes: "Pronome de primeira pessoa do singular"
+ti:
+  translations:
+    pt: você / tu
+    en: you (singular)
+li:
+  translations:
+    pt: ele / ela (neutro)
+    en: he / she / it (neutral)
+ni:
+  translations:
+    pt: nós
+    en: we
+vi:
+  translations:
+    pt: vocês / vós
+    en: you (plural)
+si:
+  translations:
+    pt: eles / elas
+    en: they

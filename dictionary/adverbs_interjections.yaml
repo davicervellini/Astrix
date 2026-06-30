@@ -1,0 +1,16 @@
+salu:
+  translations:
+    pt: olá / saudações
+    en: hello / greetings
+  examples:
+    - text: "Salu, partnoro!"
+      translation_pt: "Olá, parceiro!"
+      translation_en: "Hello, partner!"
+vayu:
+  translations:
+    pt: adeus
+    en: goodbye
+gratu:
+  translations:
+    pt: obrigado
+    en: thank you

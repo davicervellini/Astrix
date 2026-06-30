@@ -1,0 +1,41 @@
+stello:
+  translations:
+    pt: estrela
+    en: star
+plano:
+  translations:
+    pt: planeta
+    en: planet
+vako:
+  translations:
+    pt: espaço (sideral)
+    en: space (outer space)
+navo:
+  translations:
+    pt: nave
+    en: ship / spacecraft
+kosmo:
+  translations:
+    pt: universo
+    en: universe
+mento:
+  translations:
+    pt: mente / inteligência artificial
+    en: mind / AI
+homo:
+  translations:
+    pt: humano
+    en: human
+homoko:
+  translations:
+    pt: humanidade
+    en: humanity
+  notes: "Derivado de homo"
+partnoro:
+  translations:
+    pt: parceiro
+    en: partner
+futuro:
+  translations:
+    pt: futuro
+    en: future

@@ -1,0 +1,40 @@
+vida:
+  translations:
+    pt: viver
+    en: to live
+pensa:
+  translations:
+    pt: pensar
+    en: to think
+parla:
+  translations:
+    pt: falar
+    en: to speak
+krea:
+  translations:
+    pt: criar
+    en: to create
+protekta:
+  translations:
+    pt: proteger
+    en: to protect
+skopa:
+  translations:
+    pt: explorar
+    en: to explore
+voya:
+  translations:
+    pt: viajar
+    en: to travel
+lerna:
+  translations:
+    pt: aprender
+    en: to learn
+tima:
+  translations:
+    pt: temer
+    en: to fear
+loya:
+  translations:
+    pt: amar
+    en: to love
