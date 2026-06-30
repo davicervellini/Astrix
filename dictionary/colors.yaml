@@ -1,0 +1,24 @@
+redi:
+  translations:
+    pt: vermelho
+    en: red
+blui:
+  translations:
+    pt: azul
+    en: blue
+grini:
+  translations:
+    pt: verde
+    en: green
+yeli:
+  translations:
+    pt: amarelo
+    en: yellow
+blaki:
+  translations:
+    pt: preto
+    en: black
+viti:
+  translations:
+    pt: branco
+    en: white

@@ -151,6 +151,94 @@
         }
       }
     },
+    "colors": {
+      "redi": {
+        "translations": {
+          "pt": "vermelho",
+          "en": "red"
+        }
+      },
+      "blui": {
+        "translations": {
+          "pt": "azul",
+          "en": "blue"
+        }
+      },
+      "grini": {
+        "translations": {
+          "pt": "verde",
+          "en": "green"
+        }
+      },
+      "yeli": {
+        "translations": {
+          "pt": "amarelo",
+          "en": "yellow"
+        }
+      },
+      "blaki": {
+        "translations": {
+          "pt": "preto",
+          "en": "black"
+        }
+      },
+      "viti": {
+        "translations": {
+          "pt": "branco",
+          "en": "white"
+        }
+      }
+    },
+    "connectives": {
+      "en": {
+        "translations": {
+          "pt": "e (adição)",
+          "en": "and"
+        }
+      },
+      "or": {
+        "translations": {
+          "pt": "ou (alternativa)",
+          "en": "or"
+        }
+      },
+      "ba": {
+        "translations": {
+          "pt": "mas / porém",
+          "en": "but"
+        }
+      },
+      "in": {
+        "translations": {
+          "pt": "em / dentro",
+          "en": "in / inside"
+        }
+      },
+      "true": {
+        "translations": {
+          "pt": "sobre / em cima / ligado",
+          "en": "on / upon"
+        }
+      },
+      "to": {
+        "translations": {
+          "pt": "para / em direção a",
+          "en": "to / towards"
+        }
+      },
+      "de": {
+        "translations": {
+          "pt": "de / origem",
+          "en": "from / of"
+        }
+      },
+      "if": {
+        "translations": {
+          "pt": "se (condicional)",
+          "en": "if"
+        }
+      }
+    },
     "nouns": {
       "stello": {
         "translations": {
@@ -211,6 +299,86 @@
         "translations": {
           "pt": "futuro",
           "en": "future"
+        }
+      }
+    },
+    "numbers": {
+      "nul": {
+        "translations": {
+          "pt": "zero",
+          "en": "zero"
+        }
+      },
+      "un": {
+        "translations": {
+          "pt": "um",
+          "en": "one"
+        }
+      },
+      "du": {
+        "translations": {
+          "pt": "dois",
+          "en": "two"
+        }
+      },
+      "tri": {
+        "translations": {
+          "pt": "três",
+          "en": "three"
+        }
+      },
+      "for": {
+        "translations": {
+          "pt": "quatro",
+          "en": "four"
+        }
+      },
+      "fif": {
+        "translations": {
+          "pt": "cinco",
+          "en": "five"
+        }
+      },
+      "sik": {
+        "translations": {
+          "pt": "seis",
+          "en": "six"
+        }
+      },
+      "sep": {
+        "translations": {
+          "pt": "sete",
+          "en": "seven"
+        }
+      },
+      "ok": {
+        "translations": {
+          "pt": "oito",
+          "en": "eight"
+        }
+      },
+      "non": {
+        "translations": {
+          "pt": "nove",
+          "en": "nine"
+        }
+      },
+      "dek": {
+        "translations": {
+          "pt": "dez",
+          "en": "ten"
+        }
+      },
+      "kent": {
+        "translations": {
+          "pt": "cem",
+          "en": "hundred"
+        }
+      },
+      "mil": {
+        "translations": {
+          "pt": "mil",
+          "en": "thousand"
         }
       }
     },
@@ -346,6 +514,48 @@
         "translations": {
           "pt": "amar",
           "en": "to love"
+        }
+      },
+      "esa": {
+        "translations": {
+          "pt": "ser / estar",
+          "en": "to be"
+        }
+      },
+      "hava": {
+        "translations": {
+          "pt": "ter",
+          "en": "to have"
+        }
+      },
+      "faka": {
+        "translations": {
+          "pt": "fazer",
+          "en": "to do / to make"
+        }
+      },
+      "ira": {
+        "translations": {
+          "pt": "ir",
+          "en": "to go"
+        }
+      },
+      "viza": {
+        "translations": {
+          "pt": "ver",
+          "en": "to see"
+        }
+      },
+      "dona": {
+        "translations": {
+          "pt": "dar",
+          "en": "to give"
+        }
+      },
+      "saba": {
+        "translations": {
+          "pt": "saber",
+          "en": "to know"
         }
       }
     }

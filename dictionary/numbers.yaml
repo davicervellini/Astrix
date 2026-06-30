@@ -1,0 +1,52 @@
+nul:
+  translations:
+    pt: zero
+    en: zero
+un:
+  translations:
+    pt: um
+    en: one
+du:
+  translations:
+    pt: dois
+    en: two
+tri:
+  translations:
+    pt: três
+    en: three
+for:
+  translations:
+    pt: quatro
+    en: four
+fif:
+  translations:
+    pt: cinco
+    en: five
+sik:
+  translations:
+    pt: seis
+    en: six
+sep:
+  translations:
+    pt: sete
+    en: seven
+ok:
+  translations:
+    pt: oito
+    en: eight
+non:
+  translations:
+    pt: nove
+    en: nine
+dek:
+  translations:
+    pt: dez
+    en: ten
+kent:
+  translations:
+    pt: cem
+    en: hundred
+mil:
+  translations:
+    pt: mil
+    en: thousand

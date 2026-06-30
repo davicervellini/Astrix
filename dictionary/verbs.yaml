@@ -38,3 +38,31 @@ loya:
   translations:
     pt: amar
     en: to love
+esa:
+  translations:
+    pt: ser / estar
+    en: to be
+hava:
+  translations:
+    pt: ter
+    en: to have
+faka:
+  translations:
+    pt: fazer
+    en: to do / to make
+ira:
+  translations:
+    pt: ir
+    en: to go
+viza:
+  translations:
+    pt: ver
+    en: to see
+dona:
+  translations:
+    pt: dar
+    en: to give
+saba:
+  translations:
+    pt: saber
+    en: to know

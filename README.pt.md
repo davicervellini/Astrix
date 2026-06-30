@@ -30,6 +30,7 @@ A vogal final de uma palavra define inequivocamente a sua classe gramatical:
 * **Adjetivos**: terminam em `-i` (colocados antes do substantivo, ex: *grandi*, *boni*).
 * **Advérbios e Interjeições**: terminam em `-u` (ex: *salu*, *vayu*).
 * **Pronomes**: vogal base `i` (ex: *mi*, *ti*).
+* **Partículas Estruturais (Números/Preposições)**: terminam em consoante (ex: *un*, *in*, *en*).
 
 ### Gramática
 * **Ordem**: Sujeito-Verbo-Objeto (SVO).

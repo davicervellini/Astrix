@@ -30,6 +30,7 @@ The final vowel of a word unequivocally defines its grammatical class:
 * **Adjectives**: end in `-i` (placed before the noun, e.g., *grandi*, *boni*).
 * **Adverbs and Interjections**: end in `-u` (e.g., *salu*, *vayu*).
 * **Pronouns**: base vowel `i` (e.g., *mi*, *ti*).
+* **Structural Particles (Numbers/Prepositions)**: end in a consonant (e.g., *un*, *in*, *en*).
 
 ### Grammar
 * **Word Order**: Subject-Verb-Object (SVO).

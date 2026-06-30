@@ -1,0 +1,32 @@
+en:
+  translations:
+    pt: e (adição)
+    en: and
+or:
+  translations:
+    pt: ou (alternativa)
+    en: or
+ba:
+  translations:
+    pt: mas / porém
+    en: but
+in:
+  translations:
+    pt: em / dentro
+    en: in / inside
+on:
+  translations:
+    pt: sobre / em cima / ligado
+    en: on / upon
+to:
+  translations:
+    pt: para / em direção a
+    en: to / towards
+de:
+  translations:
+    pt: de / origem
+    en: from / of
+if:
+  translations:
+    pt: se (condicional)
+    en: if
